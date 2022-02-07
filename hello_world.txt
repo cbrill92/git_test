@@ -1,1 +1,1 @@
-Hello everybody today is muy first day using Git and GitHub lets see how this journey goes!
+Hello everybody today is my first day using Git and GitHub lets see how this journey goes!
